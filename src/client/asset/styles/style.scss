@@ -1,0 +1,92 @@
+body{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.button{
+        border-color: #ffffff;
+    color: #ffffff;
+    background-color: transparent;
+        font-size: 0.6875rem;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    width: auto;
+    background: none;
+}
+
+.main{
+ 	margin-top: 70px;
+}
+
+h1.title { 
+	font-size: 50px;
+	font-family: 'Passion One', cursive; 
+	font-weight: 400; 
+}
+
+hr{
+	width: 10%;
+	color: #fff;
+}
+
+.form-group{
+	margin-bottom: 15px;
+}
+
+label{
+	margin-bottom: 15px;
+}
+
+input,
+input::-webkit-input-placeholder {
+    font-size: 11px;
+    padding-top: 3px;
+}
+
+.main-login{
+ 	background-color: #fff;
+    /* shadows and rounded borders */
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    
+}
+   .rem-for {
+       font-size: small;
+        padding: 6% 0;
+
+        input {
+         margin-right: 1%;
+          margin-bottom: 1px;
+          vertical-align: text-bottom;
+     }
+     .message {
+       float: left;
+        color: red;
+        }
+      }
+.main-center{
+ 	margin-top: 30px;
+ 	margin: 0 auto;
+ 	max-width: 330px;
+    padding: 40px 40px;
+
+}
+
+.login-button{
+	margin-top: 5px;
+}
+
+.login-register{
+	font-size: 11px;
+
+}
